@@ -8,4 +8,4 @@ three python files:
 
 sampledata.json
 
-software	could	run	on	this	sample	data. Download the sampledata.jason with finalweb.ipynb under same path. Run finalweb.ipynb file to test to system.
+software	could	run	on	this	sample	data. Download the sampledata.json with finalweb.ipynb under same path. Run finalweb.ipynb file to test to system.
