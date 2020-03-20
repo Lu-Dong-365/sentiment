@@ -6,6 +6,6 @@ three python files:
  - tweepy_streamer.py  uses the hashtag list to get the raw tweets by tweets API  generate a new tweet.json file to store the raw data.
  - finalweb.ipynb  extract the text and emoji and divide the tweets into six sentiment categories, store the results in six csv files.
 
-sampledata 
+sampledata.json
 
 software	could	run	on	this	sample	data.
