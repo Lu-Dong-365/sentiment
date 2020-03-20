@@ -12,4 +12,4 @@ software	could	run	on	this	sample	data. Download the sampledata.json with finalw
 
 result folder
 
-This folder includes the coursework resluts. 	Six	classes	with	150	tweets	per	class in csv files.
+This folder includes the coursework resluts. 	Six	classes	with more than 150	tweets	per	class in csv files.
