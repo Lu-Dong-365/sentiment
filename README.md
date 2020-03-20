@@ -6,4 +6,5 @@ three python files:
  - finalweb.ipynb  extract the text and emoji and divide the tweets into six sentiment categories, store the results in six csv files.
 
 sampledata 
-software	should	be	able	to	run	on	this	sample	data.
+
+software	could	run	on	this	sample	data.
